@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 
+@property(copy,nonatomic)NSString *testName;
 @end
 
 @implementation ViewController
